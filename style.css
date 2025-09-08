@@ -2,6 +2,7 @@ body
 
 {
     background-color: LightBlue;
+    width: 50vw;
 }
 
 h2
@@ -25,3 +26,4 @@ h1
 {
     font-family: 'Copperplate Gothic Light';
 }
+
