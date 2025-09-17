@@ -2,7 +2,7 @@ body
 
 {
     background-color: GhostWhite;
-    width: 100vw;
+    max-width: 80vw;
 }
 
 h2
@@ -26,6 +26,7 @@ h1
 {
     font-family: 'Anonymous Pro';
 }
+
 
 
 
