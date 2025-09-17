@@ -1,20 +1,20 @@
 body
 
 {
-    background-color: LightBlue;
-    width: 70vw;
+    background-color: GhostWhite;
+    width: 100vw;
 }
 
 h2
 
 {
-    background-color:rgb(70, 130, 180);
+    background-color:rgb(112, 128, 144);
 }
 
 p
 
 {
-    color:rgb(186, 85, 211);
+    color:rgb(112, 128, 144);
 }
 
 h4
@@ -26,6 +26,7 @@ h1
 {
     font-family: 'Anonymous Pro';
 }
+
 
 
 
